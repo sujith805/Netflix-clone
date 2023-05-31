@@ -1,4 +1,4 @@
-# project-documentation
+# Netflix-clone-documentation
 
 <p align="center">
   <a href="" rel="noopener">
@@ -38,13 +38,7 @@ This platform has successfully disrupted the conventional cable TV aspect and ha
 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-<div align="center">
-<img  src='./demo/ezgif-1-2a6c90cdd6.gif' alt='image'/>
-</div>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
-## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
 
 ### Break down into end to end tests <a name = "Break down into end to end tests"></a>
 * After Netflix sends the video to your internet provider, it goes through their network to get to your home.
