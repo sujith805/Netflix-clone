@@ -38,7 +38,9 @@ This platform has successfully disrupted the conventional cable TV aspect and ha
 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-<video class="Live demo" muted autoplay loop src="/Images/Netflix-clone live demo.webm"></video>
+<div align="center">
+<img  src='./demo/ezgif-1-2a6c90cdd6.gif' alt='image'/>
+</div>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ## 🔧 Running the tests <a name = "tests"></a>
